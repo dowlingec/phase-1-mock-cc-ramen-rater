@@ -1,0 +1,11 @@
+page loads:
+X Request ramen data
+X display ramen image <img src="url.com" alt="">
+X each ramen img tag should be in ramen-menu div
+
+
+
+X click image in ramen-menu to see all info inside ramen-detail div
+    img.addEventListener('click', () => {
+
+    })
